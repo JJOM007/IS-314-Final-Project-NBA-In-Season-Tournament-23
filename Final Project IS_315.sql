@@ -1,5 +1,5 @@
-Database Schema with SQL
-This section shows the SQL used to create the database and tables. You may include part of DML that was used to populate the tables with data. You can make the data up for your database. 
+---Database Schema with SQL
+---This section shows the SQL used to create the database and tables. You may include part of DML that was used to populate the tables with data. You can make the data up for your database. 
 CREATE TABLE Game
 (GID CHAR NOT NULL,
   Game_Date DATE NOT NULL,
